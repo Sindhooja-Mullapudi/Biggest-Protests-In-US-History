@@ -16,6 +16,18 @@
 
 > The 14th protest that has been mentioned is the only protest out of them all that had all 50 states involved. Which is incredible. But what is also interesting is that, the first protest mentioned here (the Civil Rights March) and the last protest (Black Lives Matter March) are about the same thing. This shows that in the last 57 years, barely nothing has changed. But while looking at the two maps, we can also see that back then the march happened only in Washington DC. Now, the protests and marches are happening all over the Nation. Which is a good place to start. This could be because of the increase in awareness, the access to more information, a decrease in the digital divide, or simply more unity. Whatever the reason may be, improvement and changes are happening all over the Nation and the World.
 
+## Interface Sketches
+
+![1](InterfaceSketches/IS1.jpg)
+![2](InterfaceSketches/IS2.jpg)
+![3](InterfaceSketches/IS3.jpg)
+![4](InterfaceSketches/IS4.jpg)
+![5](InterfaceSketches/IS5.jpg)
+![6](InterfaceSketches/IS6.jpg)
+![7](InterfaceSketches/IS7.jpg)
+![8](InterfaceSketches/IS8.jpg)
+![9](InterfaceSketches/IS9.jpg)
+
 ## Data sources
 
 Topic | Data Source
