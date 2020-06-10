@@ -6,6 +6,8 @@
 
 > Protests have been happening multiple times through out American history as a way for the people to show their outrage and feelings against hate, inequality, and violence. And most of the protests have led to positive changes in the laws and in the behavior of people. As people residing in this country, we cannot forget that major changes have developed due to protests. An example is the Civil Rights Bills that was passed as the effect of a protest. Protests are the foundation that built America, that should never be forgotten. It is important to be educated about certain protests that brought thousands, and even millions, of people together. Those protests show the unity Americans hold in their hearts.
 
+![](sm1.png)
+
 ## Project goal 
 
 > Tha goal of this project is to get educated about the 14 biggest protests in US History. It is important to read and understand these protests and overall, how protests help America and those who live in this coutnry reach equality and unity. The goal of this story map is to also show where we have started (57 years ago) and where we are now. Which is basically the same place, unfortunately. 
@@ -15,6 +17,8 @@
 > It is also interesting to see that most of the popular protests (and essentially human rights protests) have been happening during the Trump administration. Coincidence? That is up to everyone to think about.
 
 > The 14th protest that has been mentioned is the only protest out of them all that had all 50 states involved. Which is incredible. But what is also interesting is that, the first protest mentioned here (the Civil Rights March) and the last protest (Black Lives Matter March) are about the same thing. This shows that in the last 57 years, barely nothing has changed. But while looking at the two maps, we can also see that back then the march happened only in Washington DC. Now, the protests and marches are happening all over the Nation. Which is a good place to start. This could be because of the increase in awareness, the access to more information, a decrease in the digital divide, or simply more unity. Whatever the reason may be, improvement and changes are happening all over the Nation and the World.
+
+![](sm2.png)
 
 ## Interface Sketches
 
