@@ -96,6 +96,8 @@ These are a list of the open-source libraries of this project and Esri StoryMaps
 
 ### Acknowledgement
 
-**ESRI ArcGIS Online StoryMaps**
-**All data sources listed above**
-**[Esri Github Account](https://github.com/Esri/storymap-journal/edit/master/README.md) for the information on the application infrastructure**
+> **ESRI ArcGIS Online StoryMaps**
+
+> **All data sources listed above**
+
+> **[Esri Github Account](https://github.com/Esri/storymap-journal/edit/master/README.md) for the information on the application infrastructure**
