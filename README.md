@@ -1,5 +1,6 @@
 
-# Story Map of the 14 Biggest Protests in US History
+# [Story Map of the 14 Biggest Protests in US History](https://storymaps.arcgis.com/stories/6f74853f22fe4735bcaac8b15f0e887d)
+[Link to the story map](https://storymaps.arcgis.com/stories/6f74853f22fe4735bcaac8b15f0e887d)
 
 ## Project description
 
