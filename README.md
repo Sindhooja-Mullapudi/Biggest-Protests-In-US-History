@@ -21,7 +21,7 @@ Project goal (such as, what is the message you want to deliver through your proj
 Data sources
 
 Topic | Data Source
----------------------
+----- | -----------
 14 biggest march data | https://www.businessinsider.com/largest-marches-us-history-2017-1
 1963 Civil Rights March | https://kinginstitute.stanford.edu/encyclopedia/march-washington-jobs-and-freedom | https://www.britannica.com/event/March-on-Washington
 Anti Vietnam War Protest | https://www.history.com/topics/vietnam-war/vietnam-war-protests | https://learning.blogs.nytimes.com/2011/11/15/nov-15-1969-anti-vietnam-war-demonstration-held/
