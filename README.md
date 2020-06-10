@@ -38,10 +38,64 @@ Women's March | https://www.nytimes.com/2017/01/21/us/womens-march.html
 March for Our Lives | https://marchforourlives.com/
 Black Lives Matter Protest | https://blacklivesmatter.com/
 
-Applied libraries (e.g., Leaflet, D3, C3) and Web Services (e.g., github, basemap) in use
+### Applied libraries and structures used in building the story map
+
+This story map relies on AMD and Dojo loader [AMD](https://developers.arcgis.com/javascript/3/jshelp/inside_dojo_amd.html) for application structure.
+
+The application is structured like this:
+
+| Path                                    | Contains                                            |
+| --------------------------------------------- |  -------------------------------------------------------------------------------------------- |
+| Gruntfile.js                  | Build configuration                                     |
+| src/                      | Main source code folder with index.html and the Eclipse project configuration             |
+| src/app/                    | Javascript and CSS source code                                |
+| src/app/config.js                     | App configuration file (loaded at execution time)                       |
+| src/app/storymaps/common/           | Modules common across storymaps templates (main module is Core.js)              |
+| src/app/storymaps/common/builder/       | Builder modules (main module is Builder.js)                         |
+| src/app/storymaps/common/mapcontrols/     | Map UI components (Overview, Legend)                              |
+| src/app/storymaps/common/ui/          | UI components                                         |
+| src/app/storymaps/common/utils/       | Utils, connector,...                                      |
+| src/app/storymaps/common/_resources     | Static resources                                        |
+| src/app/storymaps/tpl/            | Map Journal modules (build configuration files in the root)                 |
+| src/app/storymaps/tpl/builder/        | Builder modules (main module is BuilderView.js)                       |
+| src/app/storymaps/tpl/core/         | Core modules (main module is MainView.js)                           |
+| src/app/storymaps/tpl/ui/           | UI components of the viewer grouped by target device                      |
+| src/lib-app/                  | Dependencies (included in the final app)                            |
+| src/lib-build/                | Dependencies used by the build (not included in final app)                  |
+| src/resources/                | Static resources                                        |
 
 
-Acknowledgement
+The application Javascript and CSS are minified into four files:
+
+| File      |                   |
+| --------------------- | ----------------------------------------------------------------------------- |
+| app/viewer-min.css  | Compressed CSS loaded when accessing the Map Journal as a viewer    |
+| app/viewer-min.js | Compressed Javascript loaded when accessing the Map Journal as a viewer |
+| app/builder-min.css | Compressed CSS loaded when accessing the Map Journal as an author   |
+| app/builder-min.js  | Compressed Javascript loaded when accessing the Map Journal as an author  |
+
+The index.html will load the files in.
+
+These are a list of the open-source libraries of this project and Esri StoryMaps. 
+
+| Library               | License   |
+| --------------------- | --------- |
+| Bootstrap       | MIT     |
+| CKEditor        | LGPL    |
+| jQuery        | MIT     |
+| jQuery Colorbox     | MIT     |
+| iDangero.us swiper  | MIT     |
+| History.js      | BSD     |
+| jQuery UI       | MIT     |
+| FastClick       | MIT     |
+| Hammer.JS       | MIT     |
+| jQuery mousewheel   | MIT     |
+| jQuery UI Touch Punch | MIT     |
+| Clipboard.js          | MIT       |
 
 
-Other things necessary to inform the audience.
+### Acknowledgement
+
+**ESRI ArcGIS Online StoryMaps**
+**All data sources listed above**
+**[Esri Github Account](https://github.com/Esri/storymap-journal/edit/master/README.md) for the information on the application infrastructure**
